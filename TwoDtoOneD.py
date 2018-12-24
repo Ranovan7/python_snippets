@@ -1,4 +1,5 @@
-
+oneD = []
 for i in range(5):
     for j in range(5):
-        print((j * 5) + i)
+        oneD.append((j * 5) + i)
+print(oneD)
