@@ -1,5 +1,6 @@
 oneD = []
-for i in range(5):
-    for j in range(5):
-        oneD.append((j * 5) + i)
+dimension = 7
+for i in range(dimension):
+    for j in range(dimension):
+        oneD.append((j * dimension) + i)
 print(oneD)
