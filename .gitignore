@@ -1,1 +1,3 @@
 *.pyc
+jsonbenchmark.py
+data/exampleBig.json
