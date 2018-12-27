@@ -1,3 +1,4 @@
 *.pyc
 jsonbenchmark.py
 data/exampleBig.json
+tryMongo.py
